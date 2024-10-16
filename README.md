@@ -1,4 +1,4 @@
-# coffeeShop
+# CoffeeShop
 wellcome to my Repository
 This Power BI dashboard provides an overview of the sales, product analysis, and performance metrics for a chain of coffee shops. The dashboard is designed to help business stakeholders track sales trends, profitability, and customer activity across different locations and products.
 ## Objectives
